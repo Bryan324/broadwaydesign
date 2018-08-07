@@ -14,8 +14,9 @@ h1 {
   font-weight: bold;
 }
 
-.main p {
+.btn-nav {
   font-size: 18px;
+  color: white;
 }
 
 .support h2 {
@@ -43,10 +44,6 @@ p {
 .footer {
   text-align: left;
   font-size: 11px;
-  fontccolor: white;
-  background-color: dimgray;
-}
-
-.btn-nav {
   color: white;
+  background-color: dimgray;
 }
